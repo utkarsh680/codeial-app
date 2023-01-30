@@ -1,0 +1,902 @@
+[0mGET / [36m304[0m 91.861 ms - -[0m
+[0mGET / [31m500[0m 185.949 ms - 148[0m
+[0mGET / [31m500[0m 69.232 ms - 148[0m
+[0mGET / [31m500[0m 46.448 ms - 148[0m
+[0mGET / [31m500[0m 54.525 ms - 148[0m
+[0mGET / [31m500[0m 175.903 ms - 148[0m
+[0mGET / [31m500[0m 174.337 ms - 148[0m
+[0mGET / [31m500[0m 102.045 ms - 148[0m
+[0mGET / [31m500[0m 177.794 ms - 148[0m
+[0mGET / [31m500[0m 66.117 ms - 148[0m
+[0mGET / [31m500[0m 53.022 ms - 148[0m
+[0mGET / [31m500[0m 49.435 ms - 148[0m
+[0mGET / [32m200[0m 167.192 ms - 6684[0m
+[0mGET /favicon.ico [33m404[0m 10.149 ms - 150[0m
+[0mGET / [36m304[0m 86.733 ms - -[0m
+::1 - - [28/Jan/2023:07:45:22 +0000] "GET / HTTP/1.1" 200 4367 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /js/home_post_comments.js HTTP/1.1" 404 163 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /js/home_posts.js HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /js/toggle_likes.js HTTP/1.1" 404 157 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:23 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /js/home_post_comments.js HTTP/1.1" 404 163 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /js/home_posts.js HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /js/toggle_likes.js HTTP/1.1" 404 157 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:24 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /js/home_post_comments.js HTTP/1.1" 404 163 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /js/home_posts.js HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /js/toggle_likes.js HTTP/1.1" 404 157 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:25 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /js/home_post_comments.js HTTP/1.1" 404 163 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /js/home_posts.js HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /js/toggle_likes.js HTTP/1.1" 404 157 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:26 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /js/home_post_comments.js HTTP/1.1" 404 163 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /js/home_posts.js HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/home.css HTTP/1.1" 404 151 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/chat_box.css HTTP/1.1" 404 155 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /js/toggle_likes.js HTTP/1.1" 404 157 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /js/chat_engine.js HTTP/1.1" 404 156 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:28 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:32 +0000] "GET /users/sign-in HTTP/1.1" 200 4904 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:32 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:32 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:32 +0000] "GET /js/password-eye.js HTTP/1.1" 404 157 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:32 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:32 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:32 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /users/sign-up HTTP/1.1" 200 7296 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /css/user_sign_up.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /js/password-eye-sign-up.js HTTP/1.1" 404 165 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /js/confirm-password.js HTTP/1.1" 404 161 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /css/user_sign_up.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:34 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:35 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /js/password-eye.js HTTP/1.1" 404 157 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/user_sign_in.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/user_sign_up.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /js/password-eye-sign-up.js HTTP/1.1" 404 165 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /js/confirm-password.js HTTP/1.1" 404 161 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/user_sign_up.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:36 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /css/user_sign_up.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /js/password-eye-sign-up.js HTTP/1.1" 404 165 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /js/confirm-password.js HTTP/1.1" 404 161 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /css/user_sign_up.css HTTP/1.1" 404 159 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:07:45:41 +0000] "GET /css/header.css HTTP/1.1" 404 153 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+[0mGET /users/sign-up [32m200[0m 46.802 ms - 7260[0m
+[0mGET /users/css/layout.css [33m404[0m 46.453 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 48.751 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 49.305 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 21.172 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 18.260 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 27.620 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 2.543 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 3.246 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 5.127 ms - 159[0m
+[0mGET /users/sign-in [32m200[0m 7.454 ms - 4868[0m
+[0mGET /users/css/layout.css [33m404[0m 9.580 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.209 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.093 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 14.473 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 18.367 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 19.680 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 9.892 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.465 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 26.850 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 16.547 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 9.739 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.667 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.149 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 6.225 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 12.140 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 20.640 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.886 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.981 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.790 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.211 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.297 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 16.464 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.894 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 23.310 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 8.383 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.429 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 19.583 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 18.555 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 19.697 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.729 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 16.826 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 8.811 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 13.403 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.507 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.853 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 4.269 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 13.564 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.266 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.712 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 14.372 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.102 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.964 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 7.240 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 18.523 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.917 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 5.429 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 9.465 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.229 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 7.883 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 7.430 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 12.708 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.665 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.031 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 13.975 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.426 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.136 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 8.697 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.866 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.310 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 6.797 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 12.511 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.715 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.802 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 13.517 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 14.030 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.668 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 10.182 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.444 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.117 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.961 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 9.081 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.603 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.742 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 7.799 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.958 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.864 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.591 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 5.222 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.028 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.374 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 5.996 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.137 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.540 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.082 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 11.465 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.630 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.426 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.335 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 8.088 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 8.309 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.630 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.108 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 11.579 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 21.008 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.147 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.517 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.602 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.898 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.483 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 12.190 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.222 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.426 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 10.582 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.228 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.497 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.973 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 10.509 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.032 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.591 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 4.027 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.170 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.567 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.753 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 7.893 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 7.916 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.849 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.771 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 7.127 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 14.846 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.575 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 9.234 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.444 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.505 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 6.925 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 17.489 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.857 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 16.870 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 11.785 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 22.443 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 38.355 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 9.710 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 8.040 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.854 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.335 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 6.426 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 14.340 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.144 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.736 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 12.735 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.089 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.174 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 13.641 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 14.306 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.828 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 4.449 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 25.404 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.969 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.089 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 14.366 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.880 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.444 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.779 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 8.799 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.317 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.239 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 17.741 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.990 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.484 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 7.173 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 6.529 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.104 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 7.399 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 11.799 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.877 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.583 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 4.394 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.649 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 18.171 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.570 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 8.238 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.609 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.427 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 5.631 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 12.492 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.220 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.013 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 18.897 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.718 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.630 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.381 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.363 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.816 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.745 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 6.139 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.359 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 8.969 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 10.518 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.339 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 19.438 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 20.415 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 12.462 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.015 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.368 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 8.460 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.378 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.927 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 19.134 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 6.203 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.229 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.830 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 5.928 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.509 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.410 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 16.840 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 9.893 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.720 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.912 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 5.961 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.932 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.772 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 25.371 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 5.463 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 14.723 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 20.092 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 20.234 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 7.414 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.017 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.152 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.044 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 7.039 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.864 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.802 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 7.350 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.818 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.637 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 6.603 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.295 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.783 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.563 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 8.855 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 19.469 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.431 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 4.766 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 12.005 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.383 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.530 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 11.218 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.455 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 16.026 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 6.041 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.364 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.772 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.535 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 17.893 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 21.131 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 26.130 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 15.979 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.317 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.871 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.211 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 6.442 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 14.626 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.226 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 16.831 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 7.430 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.599 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.497 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.797 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 8.023 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.649 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 8.294 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 6.805 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.965 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.372 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 4.635 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.990 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.619 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.286 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 10.506 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.889 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 8.093 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 8.116 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.211 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 14.531 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.619 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 11.026 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.866 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.692 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.588 ms - 159[0m
+[0mGET /users/auth/google [36m302[0m 8.907 ms - 0[0m
+[0mGET /users/auth/google/callback?code=4%2F0AWtgzh6Bt45AF4DITtBNdh3hKnTTspl28KPAg5794Ta2cUNN7RzNIieBdVD5bscw9UiLcg&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none [36m302[0m 592.059 ms - 46[0m
+[0mGET / [32m200[0m 90.519 ms - 9309[0m
+[0mGET /users/sign-in [36m302[0m 8.221 ms - 72[0m
+[0mGET /users/profile [33m404[0m 5.102 ms - 152[0m
+[0mGET /users/profile [33m404[0m 9.431 ms - 152[0m
+[0mGET /users/profile [33m404[0m 7.622 ms - 152[0m
+[0mGET /users/sign-up [36m302[0m 8.061 ms - 72[0m
+[0mGET /users/profile [33m404[0m 8.486 ms - 152[0m
+[0mGET / [32m200[0m 34.885 ms - 9035[0m
+[0mGET /users/sign-out [36m302[0m 19.869 ms - 46[0m
+[0mGET / [32m200[0m 31.607 ms - 6937[0m
+[0mGET /users/sign-up [32m200[0m 4.801 ms - 7260[0m
+[0mGET /users/css/layout.css [33m404[0m 12.908 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.537 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.535 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 11.986 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.957 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.096 ms - 159[0m
+[0mGET /users/sign-in [32m200[0m 5.057 ms - 4868[0m
+[0mGET /users/css/layout.css [33m404[0m 14.069 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.261 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.038 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 10.258 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.569 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.786 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 3.236 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 12.374 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 20.398 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 18.613 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 3.455 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 24.889 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.422 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.334 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 11.207 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.820 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.374 ms - 159[0m
+[0mGET /users/auth/google [36m302[0m 3.994 ms - 0[0m
+[0mGET /users/auth/google/callback?code=4%2F0AWtgzh7drI1PsNwCYfffnHXRng-YFEi2MAwYviZf8VWg_RvAGwpAQKs1IhRvupHFCqV-yQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none [36m302[0m 3033.319 ms - 46[0m
+[0mGET / [32m200[0m 38.009 ms - 9309[0m
+[0mGET / [32m200[0m 42.626 ms - 9035[0m
+[0mPOST /likes/toggle/?id=63c94b621d980ad1002be5f5&type=Post [32m200[0m 52.666 ms - 58[0m
+[0mGET /users/sign-out [36m302[0m 19.838 ms - 46[0m
+[0mGET / [32m200[0m 33.548 ms - 6937[0m
+[0mGET /users/sign-in [36m304[0m 6.102 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.201 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.252 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 7.859 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 5.093 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 7.332 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.459 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 6.847 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 13.537 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.980 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.792 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 6.093 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.057 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 5.516 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 6.791 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.933 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.690 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.070 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 11.373 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.895 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.192 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 4.915 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.484 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.220 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.143 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 5.855 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.876 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.899 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 4.465 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 16.133 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 16.991 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 31.045 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 4.215 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.433 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.507 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.246 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 18.890 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.009 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.085 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 6.795 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 18.156 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.537 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 29.996 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 7.878 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.454 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 21.111 ms - 159[0m
+[0mGET /users/sign-up [36m304[0m 5.363 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.742 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.275 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 8.615 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 14.115 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.091 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 18.085 ms - 159[0m
+[0mGET / [32m200[0m 94.360 ms - 6664[0m
+[0mGET /users/sign-up [32m200[0m 7.988 ms - 7256[0m
+[0mGET /users/css/layout.css [33m404[0m 17.835 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.660 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 16.797 ms - 165[0m
+[0mGET /users/css/footer.css [33m404[0m 18.305 ms - 159[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 3.222 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 5.567 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 11.476 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.172 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.585 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 15.066 ms - 165[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 4.539 ms - 165[0m
+[0mGET /users/sign-in [32m200[0m 12.663 ms - 4865[0m
+[0mGET /users/css/layout.css [33m404[0m 6.966 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 7.782 ms - 165[0m
+[0mGET /users/css/header.css [33m404[0m 13.819 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.871 ms - 159[0m
+[0mGET /users/js/password-eye.js [33m404[0m 2.273 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 8.172 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 6.793 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.716 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 12.177 ms - 165[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 1.168 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 3.179 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.077 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.596 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.233 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 15.945 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 3.923 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 11.297 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.774 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.473 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 8.428 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 2.494 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.440 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.828 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.025 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 15.487 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 3.034 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 12.239 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.001 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.731 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 14.621 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 2.108 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 6.192 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 7.004 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.601 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 12.980 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 3.575 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 5.883 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 7.066 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.232 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 3.986 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 3.523 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 14.928 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.220 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.082 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 15.013 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 10.291 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 7.269 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.500 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 6.144 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 7.854 ms - 165[0m
+[0mGET /users/sign-up [36m304[0m 3.271 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.243 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 6.337 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 6.946 ms - 165[0m
+[0mGET /users/css/footer.css [33m404[0m 11.331 ms - 159[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 2.320 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 3.668 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 16.515 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.821 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.345 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 16.735 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 3.132 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 7.482 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 7.079 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 8.814 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 8.459 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 2.956 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 14.763 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.229 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.735 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 12.373 ms - 165[0m
+::1 - - [28/Jan/2023:08:50:37 +0000] "GET /users/sign-in HTTP/1.1" 200 4937 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:50:37 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:50:39 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Jan/2023:08:50:39 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Jan/2023:08:50:39 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Jan/2023:08:50:39 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Jan/2023:08:50:41 +0000] "GET /users/sign-up HTTP/1.1" 200 7340 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:50:41 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:50:45 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:50:45 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:50:47 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:50:47 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+[0mGET /users/sign-up [32m200[0m 18.160 ms - 7256[0m
+[0mGET /users/css/layout.css [33m404[0m 42.881 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 40.276 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 40.651 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 10.199 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 6.802 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 8.339 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 11.572 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 19.184 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.083 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 23.732 ms - 165[0m
+[0mGET /users/sign-up [36m304[0m 5.767 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 7.293 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 14.619 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.092 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 15.775 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 8.916 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 9.155 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 15.349 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.601 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.151 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 16.803 ms - 165[0m
+[0mGET /users/sign-up [36m304[0m 2.153 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 11.680 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.289 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 5.949 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 12.083 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 2.212 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 3.641 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 8.541 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.929 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.529 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 13.224 ms - 165[0m
+[0mGET /users/sign-up [36m304[0m 3.535 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.582 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.709 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.936 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 9.092 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 1.977 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 4.462 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 10.036 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.731 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.615 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 10.306 ms - 165[0m
+[0mGET /users/sign-in [32m200[0m 6.805 ms - 4865[0m
+[0mGET /users/css/layout.css [33m404[0m 8.881 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 10.034 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.124 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 10.163 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 4.624 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 10.510 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 6.508 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.866 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 14.189 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 3.291 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 15.668 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.571 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.489 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 24.014 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 12.610 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 17.350 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.183 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 24.052 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 24.236 ms - 165[0m
+::1 - - [28/Jan/2023:08:52:41 +0000] "GET /users/sign-in HTTP/1.1" 200 4937 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:52:41 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:52:44 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Jan/2023:08:52:45 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:52:55 +0000] "GET /users/sign-up HTTP/1.1" 200 7340 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:52:55 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:52:59 +0000] "GET /users/auth/google HTTP/1.1" 302 0 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:53:09 +0000] "GET /users/auth/google HTTP/1.1" 302 0 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:53:20 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:53:20 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:53:23 +0000] "GET /users/auth/google HTTP/1.1" 302 0 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:55:06 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:55:06 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:08:55:10 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:09:03:23 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:09:03:23 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+[0mGET /users/sign-in [32m200[0m 17.221 ms - 4865[0m
+[0mGET /users/css/layout.css [33m404[0m 38.132 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 31.156 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 31.281 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 31.106 ms - 165[0m
+[0mGET /users/css/layout.css [33m404[0m 3.417 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 7.922 ms - 159[0m
+[0mGET /users/js/password-eye.js [33m404[0m 6.878 ms - 163[0m
+[0mGET /users/sign-in [36m304[0m 6.246 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.421 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.770 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 17.783 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 18.851 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 8.110 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 12.762 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.628 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.079 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 14.739 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 32.970 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 26.842 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 50.186 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 20.258 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 23.265 ms - 165[0m
+[0mGET /users/css/header.css [33m404[0m 6.111 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 10.990 ms - 159[0m
+[0mGET /users/js/password-eye.js [33m404[0m 5.639 ms - 163[0m
+[0mGET /users/sign-in [36m304[0m 3.704 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.669 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 12.904 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.021 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 19.779 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 10.838 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 8.871 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.067 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 9.352 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 12.725 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 4.467 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 8.156 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.831 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 18.130 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 23.082 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 6.311 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 12.460 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.195 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 10.913 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 10.969 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 2.931 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.272 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.947 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 6.780 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 14.024 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 6.051 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 7.914 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 6.467 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 8.581 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 11.813 ms - 165[0m
+[0mGET /users/sign-up [32m200[0m 6.165 ms - 7256[0m
+[0mGET /users/css/layout.css [33m404[0m 6.531 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 11.979 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.450 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 14.721 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 3.960 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 6.876 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 6.953 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 7.862 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 8.654 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 12.735 ms - 165[0m
+[0mGET /users/css/layout.css [33m404[0m 11.470 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.690 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 11.146 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 14.336 ms - 165[0m
+[0mGET /users/css/header.css [33m404[0m 3.400 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 5.953 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 9.974 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.807 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 9.853 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 3.814 ms - 171[0m
+::1 - - [28/Jan/2023:09:04:38 +0000] "GET /users/sign-up HTTP/1.1" 200 7340 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Jan/2023:09:04:39 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:09:36:30 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+::1 - - [28/Jan/2023:09:36:30 +0000] "GET /images/logo.PNG HTTP/1.1" 404 154 "http://localhost:8000/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+[0mGET /users/sign-up [32m200[0m 44.455 ms - 7256[0m
+[0mGET /users/css/layout.css [33m404[0m 62.544 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 60.550 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 76.155 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 28.907 ms - 165[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 94.061 ms - 167[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 92.479 ms - 171[0m
+[0mGET /users/sign-up [36m304[0m 18.669 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 33.971 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 38.296 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 54.094 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 60.916 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 13.258 ms - 171[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 7.817 ms - 167[0m
+[0mGET /users/css/layout.css [33m404[0m 29.324 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 28.556 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 20.636 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 33.172 ms - 165[0m
+[0mGET / [36m304[0m 128.816 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 7.886 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 6.911 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 8.520 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 12.889 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 10.143 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 19.137 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 15.479 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 22.945 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 19.773 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 18.713 ms - 165[0m
+[0mGET /users/sign-up [36m304[0m 4.384 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 7.952 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 22.521 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.183 ms - 159[0m
+[0mGET /users/css/user_sign_up.css [33m404[0m 16.133 ms - 165[0m
+[0mGET /users/js/password-eye-sign-up.js [33m404[0m 5.470 ms - 171[0m
+[0mGET /users/css/header.css [33m404[0m 9.532 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 20.245 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 18.640 ms - 159[0m
+[0mGET /users/js/confirm-password.js [33m404[0m 25.051 ms - 167[0m
+[0mGET /users/profile/63c63e08b2885fa61b632fb7 [36m302[0m 12.407 ms - 72[0m
+[0mGET /users/sign-in [36m304[0m 5.687 ms - -[0m
+[0mGET /users/css/header.css [33m404[0m 9.420 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 15.239 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 15.465 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 15.861 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 8.386 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 13.181 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 13.376 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 14.896 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 17.843 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 5.704 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 17.791 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 19.090 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 17.440 ms - 165[0m
+[0mGET /users/css/footer.css [33m404[0m 26.939 ms - 159[0m
+[0mGET /users/js/password-eye.js [33m404[0m 12.244 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 22.776 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 22.040 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 41.480 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 42.533 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 5.350 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 22.013 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 19.101 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 37.627 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 17.800 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 8.223 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 24.542 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 24.672 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 31.068 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 33.475 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 9.539 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 7.686 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 24.150 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 21.293 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 26.731 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 10.087 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 24.157 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 15.949 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 18.504 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 34.072 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 30.391 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 9.463 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 22.319 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 21.578 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 22.504 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 4.602 ms - 163[0m
+[0mGET /users/css/header.css [33m404[0m 5.237 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 14.415 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 18.096 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 25.575 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 27.334 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 33.812 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 7.840 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 18.507 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 17.018 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 19.506 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 32.744 ms - 165[0m
+[0mGET /users/sign-in [36m304[0m 7.965 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 17.833 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 28.682 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 20.229 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 28.113 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 3.782 ms - 163[0m
+[0mGET /users/css/header.css [33m404[0m 9.498 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 8.692 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 13.967 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.584 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 18.175 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 16.197 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 5.809 ms - 163[0m
+[0mGET /users/css/header.css [33m404[0m 7.083 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 7.603 ms - -[0m
+[0mGET /users/css/header.css [33m404[0m 22.922 ms - 159[0m
+[0mGET /users/css/layout.css [33m404[0m 30.014 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 25.075 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 32.246 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 4.346 ms - 163[0m
+[0mGET /users/css/header.css [33m404[0m 7.105 ms - 159[0m
+[0mGET /users/sign-in [36m304[0m 12.427 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 22.460 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 22.356 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 22.235 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 22.839 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 5.366 ms - 163[0m
+[0mGET / [36m304[0m 82.112 ms - -[0m
+[0mGET / [36m304[0m 63.757 ms - -[0m
+[0mGET / [36m304[0m 103.341 ms - -[0m
+[0mGET / [36m304[0m 26.702 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 4.313 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 17.132 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 16.707 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 13.623 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 16.975 ms - 165[0m
+[0mGET /users/js/password-eye.js [33m404[0m 4.278 ms - 163[0m
+[0mGET /users/css/layout.css [33m404[0m 29.595 ms - 159[0m
+[0mGET /users/css/header.css [33m404[0m 34.151 ms - 159[0m
+[0mGET /users/css/footer.css [33m404[0m 98.792 ms - 159[0m
+[0mGET /users/css/user_sign_in.css [33m404[0m 143.201 ms - 165[0m

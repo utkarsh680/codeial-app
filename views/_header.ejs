@@ -1,0 +1,43 @@
+<link rel="stylesheet" href="<%= assetPath('css/header.css') %>">
+<header id="layout-header">
+    <nav class="navigation">
+        <div class="mini-logo"> 
+           
+                <span>
+                    <img class="img1" src="../../images/logo.PNG" alt="logo">
+                    <div>
+                        <img  class="img2" src="https://cdn-icons-png.flaticon.com/512/9210/9210426.png" alt="">
+                    </div>
+                </span>  
+                
+            <soan>
+                <p class ="hi-user">Hi, user</p> 
+            </span>
+           
+        </div> 
+
+          <div class="auth-links">
+            
+            <% if (locals.user){ %>
+            
+                
+                <a href="/users/profile"><%= user.name %></a>
+            
+           
+                <a href="/users/sign-out">Sign Out</a>
+          
+            <% }else{ %>
+           <div class ='sign-toggle-position'>
+                        <div class="sign-in-toggle">
+                            <a href="/users/sign-in">Sign In</a>
+                        </div>
+                        <div class="sign-up-toggle">
+                            <a href="/users/sign-up">Sign Up</a>
+                        </div>
+                    </div>
+         
+            <% } %>
+        
+        </div>  
+    </nav>
+</header>

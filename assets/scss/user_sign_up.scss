@@ -1,0 +1,275 @@
+input{
+    caret-color: red;
+
+    :-webkit-autofill {
+        -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+     }
+ 
+     
+}
+.sign-up{
+    margin-left:30px;
+   .sign-up-text{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+}
+.sign-up-placement{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: auto .7fr;
+    margin-left: 240px;
+}
+#grid-margin{
+    display: grid;
+    grid-gap: 10px;
+    input::placeholder{
+        // color: rgb(207, 190, 170);
+        color: white;
+    }
+    #text-input img{
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        margin-top: -36px;
+        margin-left: 15px;
+    
+    
+    }
+
+    #text-input input {
+        position: relative;
+        display: block;
+        padding: 15px 55px;
+        width: 30vw;
+        border:none;
+        color: white;
+        background-color: #212121;
+        border-radius: 10px;
+        font-size: 15px;
+        font-family: sans-serif;
+    }
+    #email-input img{
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        margin-top: -36px;
+        margin-left: 15px;
+    
+    
+    }
+
+    #email-input input {
+        position: relative;
+        display: block;
+        padding: 15px 55px;
+        width: 30vw;
+        border:none;
+        color: white;
+        background-color: #212121;
+        border-radius: 10px;
+        font-size: 15px;
+        font-family: sans-serif;
+    }
+    #password-input img{
+        position: absolute;
+        width: 27px;
+        height: 27px;
+        margin-top: -37px;
+        margin-left: 13px;
+       
+    
+    }
+    #password-input input{
+        position: relative;
+        display: block;
+        padding: 15px 55px ;
+        width: 30vw;
+        border:none;
+        color: white;
+        background-color: #212121;
+        border-radius: 10px;
+        font-size: 15px;
+        font-family: sans-serif;
+
+        
+
+       
+    }
+    #password-input i{
+        position:absolute;
+         cursor: pointer;
+        //  color: rgb(207, 190, 170);;
+        color: white;
+         font-size: 20px;
+         margin-left: 27.5%;
+         margin-top:-33px;
+    }
+    #confirm-password-input img{
+        position: absolute;
+        width: 27px;
+        height: 27px;
+        margin-top: -37px;
+        margin-left: 13px;
+       
+    
+    }
+    #confirm-password-input input{
+        position: relative;
+        display: block;
+        padding: 15px 55px ;
+        width: 30vw;
+        border:none;
+        color: white;
+        background-color: #212121;
+        border-radius: 10px;
+        font-size: 15px;
+        font-family: sans-serif;
+
+        
+
+       
+    }
+    #confirm-password-input i{
+        position:absolute;
+         cursor: pointer;
+        //  color: rgb(207, 190, 170);;
+        color: white;
+         font-size: 20px;
+         margin-left: 27.5%;
+         margin-top:-33px;
+    }
+    #submit-input button {
+        padding: 15px 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(130deg, #1277f3 0%, #0b4995 97%);
+
+        color:white;
+        width: 30vw;
+        border:none;
+        border-radius: 10px;
+        font-size: 16px;
+        font-weight: 550;
+        font-family: sans-serif;
+    }
+   
+}
+
+#gfg-icon{
+
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;  
+   justify-content: center;
+   
+    
+    
+  
+    #google{
+    height: 40px;
+    width: 30vw;
+    background-color: #212121;
+    border:1px solid #212121;
+    border-radius:15px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    p{
+        height: 20px; 
+        width: 25vw; 
+        text-align: center;
+        color: white;
+      
+     }
+
+
+    img{
+    height: 25px;
+    width: 25px;
+    margin-left: 15px;
+    }
+   
+   
+ 
+      
+    }
+    #facebook{
+        height: 40px;
+    width: 30vw;
+    background-color:#1277f3 ;
+    border:1px solid blue;
+    border-radius:15px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   
+    i{
+   
+        font-size: 25px;
+        color: white;
+        margin-left: 15px;
+
+    }
+    p{
+        height: 20px; 
+        width: 26vw; 
+        text-align: center;
+        color: white;
+      
+     }
+    
+   
+    }
+    #email{
+        height: 40px;
+    width: 30vw;
+    background-color: red;
+    border:1px solid darkred;
+    border-radius:15px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   
+    i{
+        font-size: 25px;
+        color: white;
+        margin-left: 15px;
+    }
+    p{
+        height: 20px; 
+        width: 25vw; 
+        text-align: center;
+        color: white;
+      
+     }
+      
+    }
+}
+
+#create-account{
+    display: flex;
+    justify-content: center;
+    color: gray;  
+}
+.Already-account{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    // color: rgb(207, 190, 170);;
+    color: white;
+    span a{
+        font-weight: 700;
+        font-family: sans-serif;
+        text-decoration: none;
+    
+     }
+}

@@ -1,0 +1,1 @@
+const togglePassword=document.querySelector("#togglePasswordSignup"),password=document.querySelector("#id_passwordSignup");togglePassword.addEventListener("click",(function(s){const t="password"===password.getAttribute("type")?"text":"password";password.setAttribute("type",t),this.classList.toggle("fa-eye-slash")}));
